@@ -1,0 +1,46 @@
+body{
+    background-color:rgb(0,0,0);
+    color:white;
+    text-align:center;
+    font-family:Helvetica;
+}
+table{
+    margin:auto;
+    
+
+
+
+}
+span{
+    font-family:Helvetica;
+    text-align:center;
+    margin:auto;
+    background-color:rgb(0,0,0);
+    
+
+}
+th{
+    
+    
+    font-family:Verdana;
+    padding:5px 30px 5px 30px;
+    text-align:center;
+    color:white;
+    margin:auto;
+    
+
+}
+
+
+a.hover{
+    background-color:grey;
+}
+
+div{
+
+background-color:rgb(0,0,0);
+width:cover;
+height:2em;
+
+
+}
